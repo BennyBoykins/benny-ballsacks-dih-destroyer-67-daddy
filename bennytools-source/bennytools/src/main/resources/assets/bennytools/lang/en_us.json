@@ -1,0 +1,9 @@
+{
+  "key.category.bennytools.main": "Benny Tools",
+  "key.bennytools.zoom": "Zoom (hold)",
+  "key.bennytools.toggle_hud": "Toggle HUD",
+  "key.bennytools.toggle_streamer": "Toggle streamer mode",
+  "key.bennytools.quick_waypoint": "Save quick waypoint here",
+  "key.bennytools.open_theme": "Open theme editor",
+  "key.bennytools.open_protection": "Open staff/spectator protection settings"
+}

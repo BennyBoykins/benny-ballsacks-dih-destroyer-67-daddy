@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "bennytools",
+  "version": "${version}",
+  "name": "Benny Tools",
+  "description": "Zoom, coordinate HUD and streamer mode.",
+  "authors": ["Benny"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.benny.tools.BennyTools"] },
+  "mixins": ["bennytools.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
